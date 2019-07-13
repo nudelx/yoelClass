@@ -1,0 +1,92 @@
+{
+  "blogs": [
+    {
+      "name": "Yoel's blog",
+      "id": 1
+    },
+    {
+      "name": "ALex's blog",
+      "id": 2
+    },
+    {
+      "name": "ALEX",
+      "id": 3
+    }
+  ],
+  "articles": {
+    "0": [
+      {
+        "bId": 0,
+        "title": "Yoel",
+        "content": "loreEst sunt voluptate ipsum officia amet pariatur voluptate consequat reprehenderit non anim consectetur ipsum id. Consequat in reprehenderit aliqua excepteur ad fugiat est excepteur occaecat ex irure magna. Ad aute officia cupidatat pariatur in velit.",
+        "id": 1
+      },
+      {
+        "bId": "0",
+        "title": "\"ILAN\"",
+        "content": "\"bla bla bla \"",
+        "id": 2
+      },
+      {
+        "bId": "0",
+        "title": "\"ILAN\"",
+        "content": "\"bla bla bla \"",
+        "id": 3
+      },
+      {
+        "bId": "0",
+        "title": "\"ILAN\"",
+        "content": "\"bla bla bla \"",
+        "id": 4
+      },
+      {
+        "bId": "0",
+        "title": "\"ILAN\"",
+        "content": "\"bla bla bla \"",
+        "id": 5
+      },
+      {
+        "bId": "0",
+        "title": "\"ILAN\"",
+        "content": "\"bla bla bla \"",
+        "id": 6
+      },
+      {
+        "bId": "0",
+        "title": "\"ILAN\"",
+        "content": "\"bla bla bla \"",
+        "id": 7
+      }
+    ],
+    "1": [
+      {
+        "bId": 1,
+        "title": "Alex",
+        "content": " loreEst sunt voluptate ipsum officia amet pariatur voluptate consequat reprehenderit non anim consectetur ipsum id. Consequat in reprehenderit aliqua excepteur ad fugiat est excepteur occaecat ex irure magna. Ad aute officia cupidatat pariatur in velit.",
+        "id": 2
+      }
+    ]
+  },
+  "comments": {
+    "0": [
+      {
+        "cId": 1,
+        "content": "WOW 000 !!"
+      },
+      {
+        "cId": 2,
+        "content": "COOOL 000!!"
+      }
+    ],
+    "1": [
+      {
+        "cId": 1,
+        "content": "WOW !!"
+      },
+      {
+        "cId": 2,
+        "content": "COOOL !!"
+      }
+    ]
+  }
+}
